@@ -1,0 +1,26 @@
+body{
+background-image:url(orderr.png);
+   
+}
+.container{
+    background-color: beige;
+    height: 320px;
+    width:50%;
+    padding:10px;
+    border-radius: 10px;
+ 
+}
+input {
+    width:50%;
+    background-color: bisque;
+ border-radius: 3px;
+ border-style: calc();
+}
+select{
+    width:50%;
+    background-color:bisque;
+}
+
+
+    
+

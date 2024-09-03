@@ -1,0 +1,29 @@
+body{
+background-image: url(orderr.png);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100%;
+}
+.container{
+    background-color:rgb(241, 241, 127);
+    width:100%;
+    max-width: 350px;
+    margin:auto;
+   display:flex;
+   
+   height:30vh;
+  padding: 5px;
+    border-radius: 10px;
+   align-items: center;
+   /* justify-content:center;*/
+   
+}
+.button #btn {
+  width:30%;
+ background-color:azure;
+ border-radius: 5px;
+ padding:5px;
+}
+p a{
+  text-decoration: none;
+}
